@@ -1,0 +1,12 @@
+baseURL = "http://emastafford.com/"
+languageCode = "en-us"
+title = "Ema Stafford"
+theme = "accessible-minimalism"
+disableHugoGeneratorInject = true
+enableRobotsTXT = true
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
