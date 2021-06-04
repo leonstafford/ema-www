@@ -1,0 +1,10 @@
+account_id = "69c736c51a7a73dccc0b83f75d3bedce"
+name = "workers-www-ema"
+type = "webpack"
+route = "lokl.dev/*"
+workers_dev = false
+zone_id = "88df208cedb95208a6ca56e32c77176e"
+
+[site]
+bucket = "public"
+entry-point = "workers-site"
